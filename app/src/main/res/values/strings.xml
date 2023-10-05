@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sesi2_hz.ir.daff</string>
+    <string name="label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="btn_submit">Submit</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favorite</string>
+    <string name="title_notifications">Profile</string>
+    <string name="title_activity_main">Main</string>
+    <string name="welcome_message">Welcome home, %1$s!</string>
+    <string name="email">Email</string>
+    <string name="news_title">Akhirnya One Piece Akan Segera Berakhir dan Tamat</string>
+    <string name="news_publisher">Mangaku</string>
+    <string name="news_date">28 Sept</string>
+    <string name="news_desc">Lorem ipsum color dot amot si</string>
+    <string name="save">save</string>
+    <string name="detail_error_title">Article source not found</string>
+    <string name="empty_favorite">You have not any favorite news</string>
+    <string name="username">Username</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
